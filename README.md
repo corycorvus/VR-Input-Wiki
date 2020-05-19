@@ -4,7 +4,7 @@ Welcome to the VR Input Wiki!
 
 [VR Controllers](https://github.com/corycorvus/VR-Input-Wiki/wiki/VR-Controllers)
 
-[VR Input Plugins](https://github.com/corycorvus/VR-Input-Wiki/wiki/VR-Input-Plugins)
+[VR Plugins](https://github.com/corycorvus/VR-Input-Wiki/wiki/VR-Plugins)
 
 [VR Input Tools](https://github.com/corycorvus/VR-Input-Wiki/wiki/VR-Input-Tools)
 
