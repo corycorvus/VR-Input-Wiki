@@ -14,3 +14,13 @@ Welcome to the VR Input Wiki!
 
 [VR Keyboards](https://github.com/corycorvus/VR-Input-Wiki/wiki/VR-Keyboards)
 
+
+### _TODO_
+
+- [ ] _add guides_
+- [ ] _add ue blueprints/sample code_
+- [ ] _add pics_
+- [ ] _add "Create Custom Bindings"_
+- [ ] _topic tags_
+- [ ] _update/fix TOC_
+
